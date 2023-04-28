@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPShop", "TPShop\TPShop.csproj", "{3582CCBD-B516-4079-8DAE-9B025BB5E8AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPShop.Data", "TPShop.Data\TPShop.Data.csproj", "{7795BCA9-474F-4D67-9F10-6D54CC4FB7D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3582CCBD-B516-4079-8DAE-9B025BB5E8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3582CCBD-B516-4079-8DAE-9B025BB5E8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3582CCBD-B516-4079-8DAE-9B025BB5E8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7795BCA9-474F-4D67-9F10-6D54CC4FB7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7795BCA9-474F-4D67-9F10-6D54CC4FB7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7795BCA9-474F-4D67-9F10-6D54CC4FB7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7795BCA9-474F-4D67-9F10-6D54CC4FB7D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
